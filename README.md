@@ -6,11 +6,6 @@ SaaS para encontrar e abordar clientes locais: busca leads de empresas, analisa 
 
 > O código-fonte deste projeto é privado, porque é um produto comercial em operação. Este repositório é a vitrine: mostra o que o sistema faz e como foi construído. Posso mostrar partes do código em uma conversa.
 
-<!-- Troque pelos seus prints: crie uma pasta "prints" neste repositório e envie as imagens -->
-![Painel](prints/painel.png)
-![Leads](prints/leads.png)
-![CRM](prints/crm.png)
-
 ## O que o sistema faz
 
 - **Busca de leads** por nicho e cidade, com dados de contato e presença online.
